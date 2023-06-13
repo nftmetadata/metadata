@@ -5,7 +5,7 @@
 		"image": "https://pbs.twimg.com/profile_images/1627113007938412545/cA99iXXI_400x400.jpg",
 		"banner_image_url": "https://www.m00m.world/img/story/StarryNight.png",
 		"external_link": "https://www.m00m.world/",
-		"seller_fee_basis_points": 70,
+		"seller_fee_basis_points": 700,
 		"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
 	},
 	"token": [{
