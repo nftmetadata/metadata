@@ -1,87 +1,123 @@
 {
 	"contract": {
-		"name": "m00m World",
-		"description": "Together we're building the sci-fi empire of tomorrow. Our mission is to ignite the creativity of millions of people through decentralized collaboration",
-		"image": "https://pbs.twimg.com/profile_images/1627113007938412545/cA99iXXI_400x400.jpg",
-		"banner_image_url": "https://www.m00m.world/img/story/StarryNight.png",
-		"external_link": "https://www.m00m.world/",
-		"seller_fee_basis_points": 700,
-		"fee_recipient": "0x01ce0c2672f4c9e0926b87d3e14c29d4e37d414c"
+		"name": "m00m",
+		"description": "Together we're building the sci-fi empire of tomorrow! Our mission is to unlock the creativity of millions of people through decentralized collaboration. Owning 1 of 7777 m00m container creatures turns you into a creator and storyteller that helps build the entire m00m universe.",
+		"image": "https://www.m00m.world/assets/LOGOS/m00m%20logo%20white%20bg.png",
+		"banner_image_url": "https://www.m00m.world/img/banner/banner-design-v1-1.png",
+		"external_link": "https://www.m00m.world",
+		"seller_fee_basis_points": 70,
+		"fee_recipient": "ADD M00M ROYALTY WALLET HERE"
 	},
-	"token": [{
+	"token": [
+
+		{
 			"attributes": [{
 					"trait_type": "Background",
+					"value": "B:g00"
+				},
+				{
+					"trait_type": "Color",
 					"value": "Red"
 				},
 				{
-					"trait_type": "Face",
-					"value": "Yellow"
+					"trait_type": "Head",
+					"value": "B:g00"
+				},
+				{
+					"trait_type": "Body",
+					"value": "B:g00"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "B:g00"
 				}
 			],
-			"description": "Smile",
-			"id": 0,
-			"name": "Smile #0",
-			"image": "https://nft-meta-data.s3.amazonaws.com/0.png"
+			"description": "Red",
+			"id": "0001",
+			"name": "m00m #0001",
+			"image": "https://nft.m00m.world/token/0001.png"
 		},
 		{
 			"attributes": [{
 					"trait_type": "Background",
-					"value": "Red"
+					"value": "U:g00"
 				},
 				{
-					"trait_type": "Face",
-					"value": "Yellow"
+					"trait_type": "Color",
+					"value": "Bronze"
+				},
+				{
+					"trait_type": "Head",
+					"value": "R:g00"
+				},
+				{
+					"trait_type": "Body",
+					"value": "L:g00"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "L:g00"
 				}
 			],
-			"description": "Smile",
-			"id": 1,
-			"name": "Smile #1",
-			"image": "https://nft-meta-data.s3.amazonaws.com/1.png"
+			"description": "Bronze",
+			"id": "0002",
+			"name": "m00m #0002",
+			"image": "https://nft.m00m.world/token/0002.png"
 		},
 		{
 			"attributes": [{
 					"trait_type": "Background",
-					"value": "Red"
+					"value": "B:g00"
 				},
 				{
-					"trait_type": "Face",
-					"value": "Yellow"
+					"trait_type": "Color",
+					"value": "Platinum"
+				},
+				{
+					"trait_type": "Head",
+					"value": "B:g00"
+				},
+				{
+					"trait_type": "Body",
+					"value": "R:g00"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "S:g00"
 				}
 			],
-			"description": "Smile",
-			"id": 2,
-			"name": "Smile #2",
-			"image": "https://nft-meta-data.s3.amazonaws.com/2.png"
+			"description": "Platinum",
+			"id": "0003",
+			"name": "m00m #0003",
+			"image": "https://nft.m00m.world/token/0003.png"
 		},
 		{
 			"attributes": [{
 					"trait_type": "Background",
-					"value": "Red"
+					"value": "U:g00"
 				},
 				{
-					"trait_type": "Face",
-					"value": "Yellow"
-				}
-			],
-			"description": "Smile",
-			"id": 3,
-			"name": "Smile #3",
-			"image": "https://nft-meta-data.s3.amazonaws.com/3.png"
-		},
-		{
-			"attributes": [{
-					"trait_type": "Background",
-					"value": "Red"
+					"trait_type": "Color",
+					"value": "Blue"
 				},
 				{
-					"trait_type": "Face",
-					"value": "Yellow"
+					"trait_type": "Head",
+					"value": "S:g00"
+				},
+				{
+					"trait_type": "Body",
+					"value": "E:g00"
+				},
+				{
+					"trait_type": "Hair",
+					"value": "L:g00"
 				}
 			],
-			"description": "Smile",
-			"id": 4,
-			"name": "Smile #4",
-			"image": "https://nft-meta-data.s3.amazonaws.com/4.png"
+			"description": "Platinum",
+			"id": "0004",
+			"name": "m00m #0004",
+			"image": "https://nft.m00m.world/token/0004.png"
 		}
+
 	]
 }
