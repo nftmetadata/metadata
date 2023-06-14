@@ -5,7 +5,7 @@
 		"image": "https://www.m00m.world/assets/LOGOS/m00m%20logo%20white%20bg.png",
 		"banner_image_url": "https://www.m00m.world/img/banner/banner-design-v1-1.png",
 		"external_link": "https://www.m00m.world",
-		"seller_fee_basis_points": 70,
+		"seller_fee_basis_points": 700,
 		"fee_recipient": "ADD M00M ROYALTY WALLET HERE"
 	},
 	"token": [
