@@ -35,8 +35,9 @@
 			"description": "Red",
 			"id": "0001",
 			"name": "m00m #0001",
-			"image": "https://nft.m00m.world/token/0001.png"
+			"image": "https://nft.m00m.world/pfp/0001.png"
 		},
+
 		{
 			"attributes": [{
 					"trait_type": "Background",
@@ -62,8 +63,9 @@
 			"description": "Bronze",
 			"id": "0002",
 			"name": "m00m #0002",
-			"image": "https://nft.m00m.world/token/0002.png"
+			"image": "https://nft.m00m.world/pfp/0002.png"
 		},
+
 		{
 			"attributes": [{
 					"trait_type": "Background",
@@ -89,8 +91,9 @@
 			"description": "Platinum",
 			"id": "0003",
 			"name": "m00m #0003",
-			"image": "https://nft.m00m.world/token/0003.png"
+			"image": "https://nft.m00m.world/pfp/0003.png"
 		},
+
 		{
 			"attributes": [{
 					"trait_type": "Background",
@@ -116,7 +119,7 @@
 			"description": "Platinum",
 			"id": "0004",
 			"name": "m00m #0004",
-			"image": "https://nft.m00m.world/token/0004.png"
+			"image": "https://nft.m00m.world/pfp/0004.png"
 		}
 
 	]
